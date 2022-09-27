@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397894267573",
+    "firebase_url": "https://flight-booking-2e236-default-rtdb.firebaseio.com",
+    "project_id": "flight-booking-2e236",
+    "storage_bucket": "flight-booking-2e236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397894267573:android:a2c044e72aab73519e44fc",
+        "android_client_info": {
+          "package_name": "com.example.flight_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397894267573-4rv48uokhf0934unjvbv7dqqvlvf0rn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-ejoZen7jyPdcaU9mi-VsZCXzsjljI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397894267573-4rv48uokhf0934unjvbv7dqqvlvf0rn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
